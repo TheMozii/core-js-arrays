@@ -1,4 +1,3 @@
-/* eslint-disable no-shadow */
 /* ********************************************************************************************
  *                                                                                            *
  * Please read the following tutorial before implementing tasks:                               *
